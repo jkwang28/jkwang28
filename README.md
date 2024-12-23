@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<div align="center">
+<a href="https://github.com/jkwang28" target='_blank' style="text-decoration: none;"><img src="https://github-readme-stats.vercel.app/api?username=jkwang28&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" /></a>
+</div>
+
 <!--
 **jkwang28/jkwang28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
